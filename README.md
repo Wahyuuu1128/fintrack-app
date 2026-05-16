@@ -49,3 +49,5 @@ Jika Anda ingin melakukan *clone* dan menggunakan aplikasi ini untuk keperluan p
 1. *Clone* repository ini:
    ```bash
    git clone [https://github.com/Wahyuuu1128/fintrack-app.git](https://github.com/Wahyuuu1128/fintrack-app.git)
+
+## 🙏🏻 Sekian Terima Kasih
