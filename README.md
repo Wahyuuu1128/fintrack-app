@@ -2,7 +2,7 @@
 
 FinTrack adalah aplikasi pelacak keuangan pribadi berbasis web dengan arsitektur *serverless*. Dirancang khusus untuk penggunaan perangkat mobile yang cepat, responsif, dan terintegrasi langsung dengan Google Sheets sebagai basis data penyimpanan awan (cloud database).
 
-## 📌 Fitur Utama
+##  Fitur Utama
 
 - **PWA Ready (Progressive Web App):** Dapat diinstal langsung ke *homescreen* smartphone layaknya aplikasi native.
 - **Quick Entry Form:** Input data transaksi (Pemasukan/Pengeluaran) dengan antarmuka yang bersih dan minimalis.
@@ -13,7 +13,7 @@ FinTrack adalah aplikasi pelacak keuangan pribadi berbasis web dengan arsitektur
 - **Manajemen Transaksi (CRUD):** Fitur untuk mencatat, melihat, mengedit, dan menghapus riwayat transaksi secara *real-time*.
 - **Filter Data Bulanan:** Memudahkan pengguna untuk meninjau riwayat dan statistik keuangan pada bulan-bulan sebelumnya.
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 **Frontend:**
 - HTML5
@@ -28,7 +28,7 @@ FinTrack adalah aplikasi pelacak keuangan pribadi berbasis web dengan arsitektur
 
 ---
 
-## 🚀 Cara Instalasi & Setup
+##  Cara Instalasi & Setup
 
 Jika Anda ingin melakukan *clone* dan menggunakan aplikasi ini untuk keperluan pribadi, ikuti langkah-langkah berikut:
 
@@ -50,4 +50,4 @@ Jika Anda ingin melakukan *clone* dan menggunakan aplikasi ini untuk keperluan p
    ```bash
    git clone [https://github.com/Wahyuuu1128/fintrack-app.git](https://github.com/Wahyuuu1128/fintrack-app.git)
 
-## 🙏🏻 Sekian Terima Kasih
+##  Sekian Terima Kasih
