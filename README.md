@@ -50,4 +50,4 @@ Jika Anda ingin melakukan *clone* dan menggunakan aplikasi ini untuk keperluan p
    ```bash
    git clone [https://github.com/Wahyuuu1128/fintrack-app.git](https://github.com/Wahyuuu1128/fintrack-app.git)
 
-##  Sekian Terima Kasih
+##  Sekian Terima Kasih.
